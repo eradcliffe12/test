@@ -1,1 +1,1 @@
-README INITIAL
+Hello world!
